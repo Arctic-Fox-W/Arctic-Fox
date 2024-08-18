@@ -1,6 +1,5 @@
 <div id="title" align=center>
 <div id="Visitor Count" align=center>
-
 ![Modern C++ template][github-sub-title:img]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arctic-Fox-W&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
