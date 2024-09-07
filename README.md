@@ -3,7 +3,7 @@
   
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arctic-Fox-W&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arctic-Fox-W&show_icons=true&theme=tokyonight)](https://space.bilibili.com/401803520)
 
 [![BiliBili](https://img.shields.io/badge/Video-Welcome_to_my_BiliBili-brightgreen)](https://space.bilibili.com/401803520)
 [![Steam](https://img.shields.io/badge/Steam-My_Steam_HomePage-blue)](https://steamcommunity.com/profiles/76561199035406183/)
